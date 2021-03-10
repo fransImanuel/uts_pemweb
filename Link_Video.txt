@@ -1,0 +1,29 @@
+Link Video : 
+Part 1 : https://www.youtube.com/watch?v=Yoy07ydT3NI
+Part 2 : https://www.youtube.com/watch?v=7UOH0Qp42kc
+
+2 Video tersebut menyimpulkan bahwa :
+Register (32.5 poin) yang terdiri dari : 
+	- Terdapat first name dan last name(2.5 poin)
+	- Terdapat username/email(2.5 poin)
+	- Terdapat password(2.5 poin)
+	- Terdapat tanggal lahir(2.5 poin)
+	- Terdapat jenis kelamin(2.5 poin)
+	- Bisa melakukkan pendaftaran user baru(10 poin)
+	- Username/email harus unik(5 poin)
+	- Username atau password kosong tidak bisa register(5 poin)
+Login (22.5 poin) yang terdiri dari :
+	- Terdapat textbox username/email(2.5 poin)
+	- Terdapat password(2.5 poin)
+	- Terdapat captcha yang terdiri dari gabungan angka dan huruf(2.5 poin)
+	- Terdapat button untuk login(2.5 poin)
+	- Terdapat peringatan apabila username/password kosong(2.5 poin)
+	- Tidak bisa dihacking dengan sql injection(10 poin)
+Profile (30 poin) yang terdiri dari : 
+	- Dapat menampilkan user login,foto profil dan informasi lainnya(5 poin)
+	- Dapat mengganti foto profil(5 poin)
+	- Dapat halaman postingan untuk melakukkan posting berbentuk teks dan gambar (10 poin)
+	- Dapat saling membalas komentar antar profil(5 poin)
+	- Dapat mengunjungi profil teman yang mendaftar(5 poin)
+
+Semuanya terpenuhi.
